@@ -1,3 +1,4 @@
+/* linkTree/js/links.js for linktree.bauska.org */
 export const links = [
 <!-- links.js -->
   {
